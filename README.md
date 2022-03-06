@@ -1,5 +1,6 @@
 # Body-Mass-Index
 #include<stdio.h>
+
 void main()
 {
 float wt,ht,BMI=0;
